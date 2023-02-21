@@ -31,7 +31,7 @@ h2 {
 }
 
 h3 {
-  @apply text-xl font-bold;
+  @apply text-lg font-semibold;
 }
 button {
   @apply p-3 border bg-gradient-to-r from-[var(--primary-dark)] to-[var(--primary-light)] text-white rounded-md;
