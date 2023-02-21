@@ -1,4 +1,5 @@
 import React from "react";
+import "./FunFactStyles.css";
 
 const FunFact = () => {
   return (
