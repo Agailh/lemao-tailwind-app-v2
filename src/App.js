@@ -1,3 +1,4 @@
+import About from "./component/About";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <Navbar />
       <Hero />
+      <About />
     </div>
   );
 }
