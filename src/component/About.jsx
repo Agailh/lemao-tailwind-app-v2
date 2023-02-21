@@ -1,6 +1,7 @@
 import React from "react";
 import BGabt from "../assets/BKaela_HolidayGift.png";
 import KaePP from "../assets/channels4_profile.jpg";
+import { FaYoutube } from "react-icons/fa";
 
 const About = () => {
   return (
@@ -14,6 +15,7 @@ const About = () => {
             <h2>The </h2>
             <h2 className="line-through"> Cutest</h2>
             <h2>Coolest Blacksmith from Hololive Indonesia Gen 3</h2>
+            <h2></h2>
           </div>
           <h3>
             "After taking over her great blacksmithing teacher's forge, she felt a lack of excitement in her life. So, she decided to be free and depart on a journey to find rare smithing materials, one of which was rumored to be under the
@@ -21,6 +23,10 @@ const About = () => {
           </h3>
 
           <h3 className="py-5">Fan Name : Pemaloe </h3>
+          <div className="flex justify-between items-center gap-2">
+            <FaYoutube className="text-3xl text-[#FF0000]" />
+            <h3>Kaela Kovalskia Ch. hololive-ID</h3>
+          </div>
         </div>
       </div>
     </div>
