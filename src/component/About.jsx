@@ -19,6 +19,8 @@ const About = () => {
             "After taking over her great blacksmithing teacher's forge, she felt a lack of excitement in her life. So, she decided to be free and depart on a journey to find rare smithing materials, one of which was rumored to be under the
             building of a certain "idol group" in town."
           </h3>
+
+          <h3 className="py-5">Fan Name : Pemaloe </h3>
         </div>
       </div>
     </div>
