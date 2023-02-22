@@ -2,7 +2,7 @@ import React from "react";
 
 const FunFact = () => {
   return (
-    <div className="w-full h-screen relative bg-gray-800">
+    <div className="w-full relative bg-gray-800">
       <h1 className="text-white py-10 text-center">Fun Fact About Kaela</h1>
       <div className="grid grid-cols-2 py-4 gap-1 ">
         <div className="flex flex-col justify-between items-center max-w-[700px] mx-auto w-full border p-1 rounded-md text-white ">
