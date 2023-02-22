@@ -39,3 +39,9 @@ button {
 .icon {
   @apply text-2xl cursor-pointer;
 }
+
+dd {
+  display: list-item;
+  list-style: "🔨";
+  padding-inline-start: 1ch;
+}
