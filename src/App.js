@@ -3,6 +3,7 @@ import FunFact from "./component/FunFact";
 import Hero from "./component/Hero";
 import Navbar from "./component/Navbar";
 import Galery from "./component/Galery";
+import Merch from "./component/Merch";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <About />
       <FunFact />
       <Galery />
+      <Merch />
     </div>
   );
 }
