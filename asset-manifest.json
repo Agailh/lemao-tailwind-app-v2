@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.01c4beed.css",
+    "main.js": "/static/js/main.756e184f.js",
+    "static/media/Kaela_Opening.mp4": "/static/media/Kaela_Opening.80b2d1804ab7b61f5ea0.mp4",
+    "static/media/BKaela_HolidayGift.png": "/static/media/BKaela_HolidayGift.4fe0570d559ac6d0a806.png",
+    "static/media/tatakan gls.png": "/static/media/tatakan gls.9ecfda9c6b04feecbc56.png",
+    "static/media/ilust.png": "/static/media/ilust.afeca9ec7821d902c92b.png",
+    "static/media/channels4_profile.jpg": "/static/media/channels4_profile.37f16eb642f942880b63.jpg",
+    "static/media/gelas.png": "/static/media/gelas.e3053a0f7e029ea3e013.png",
+    "index.html": "/index.html",
+    "main.01c4beed.css.map": "/static/css/main.01c4beed.css.map",
+    "main.756e184f.js.map": "/static/js/main.756e184f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c4beed.css",
+    "static/js/main.756e184f.js"
+  ]
+}
