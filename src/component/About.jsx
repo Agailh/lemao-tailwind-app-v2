@@ -24,14 +24,13 @@ const About = () => {
     <div className="w-full h-screen relative bg-gray-800">
       <img className="w-full h-full object-cover" src={BGabt} alt="/" />
       <div className="absolute w-full top-0 h-full flex flex-col justify-center text-center p-4 ">
-        <div className="flex flex-col justify-between items-center max-w-[700px] mx-auto w-full border p-1 rounded-md text-white ">
+        <div className="flex flex-col justify-between items-center max-w-[800px] mx-auto w-full border p-1 rounded-md text-white ">
           <img className="h-[200px] w-[200px] rounded-full" src={channel.snippet.thumbnails.medium.url} alt={channel.snippet.title} />
           <h1 className="py-5">{channel.snippet.title}</h1>
           <div className="flex justify-between items-center gap-1 py-5">
-            <h2>The </h2>
-            <h2 className="line-through"> Cutest</h2>
-            <h2>Coolest Blacksmith from Hololive Indonesia Gen 3</h2>
-            <h2></h2>
+            <h2>
+              The <span className="line-through">Cutest</span> Coolest Blacksmith from Hololive Indonesia Gen 3
+            </h2>
           </div>
           <h3 className="text-sm">{channel.snippet.description}</h3>
 
